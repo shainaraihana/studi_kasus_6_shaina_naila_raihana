@@ -1,0 +1,1 @@
+# studi_kasus_6_shaina_naila_raihana

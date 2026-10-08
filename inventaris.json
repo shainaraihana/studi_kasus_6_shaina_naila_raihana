@@ -1,0 +1,26 @@
+[
+    {
+        "kode": "L001",
+        "nama": "indomie goreng cabe ijo",
+        "kategori": "makanan",
+        "stok": 20
+    },
+    {
+        "kode": "L002",
+        "nama": "teh pucuk kotak",
+        "kategori": "minuman",
+        "stok": 15
+    },
+    {
+        "kode": "L003",
+        "nama": "oreo",
+        "kategori": "makanan ringan",
+        "stok": 10
+    },
+    {
+        "kode": "L004",
+        "nama": "chitato",
+        "kategori": "makanan ringan",
+        "stok": "24"
+    }
+]
